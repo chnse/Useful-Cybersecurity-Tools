@@ -10,4 +10,5 @@
 | [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)      | A program that details info about process creations, network connections, and changes to file creation time    |
 | [ProcessExplorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)     | An enhanced version of Task Manager in which you can view extra info about each process   |
 | [Strings](https://learn.microsoft.com/en-us/sysinternals/downloads/strings)     | A program that allows you to perform static analysis by revealing an executables strings  |
+| [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)   | A program that displays currently configured auto-start applications  |
 
