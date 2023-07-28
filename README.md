@@ -1,4 +1,4 @@
-# Usefull Cybersecurity Tools
+# Useful Cybersecurity Tools
 
 **This repository includes useful cross-platform cybersecurity tools to detect, thwart, and remdiate malicious activity.**
 
