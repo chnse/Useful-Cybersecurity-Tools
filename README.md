@@ -4,5 +4,5 @@
 
 | Tool                                               | Description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <a href="https://www.wireshark.org/">Wireshark</a>       | An open-source graphical packet capture utility                                       |
+| [Wireshark](https://www.wireshark.org/)      | An open-source graphical packet capture utility                                       |
 | [tcpdump](https://www.tcpdump.org/)      | A command-line packet capture utility for Linux                                    |
