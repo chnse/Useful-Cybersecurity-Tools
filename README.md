@@ -4,4 +4,4 @@
 
 | Tool                                               | Description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Wireshark                                           | Wireshark is an open-source graphical packet capture utility. <a href="https://www.wireshark.org/">Read more...</a>                                |
+| Wireshark                                           | <a href="https://www.wireshark.org/">Wireshark</a> is an open-source graphical packet capture utility                           |
