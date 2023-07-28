@@ -4,4 +4,4 @@
 
 | Tool                                               | Description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Tool Name           | Tool description. [Read more...](google.com)                  |
+| Tool Name           | Tool description. <a href="https://google.com">Read more...</a>                  |
