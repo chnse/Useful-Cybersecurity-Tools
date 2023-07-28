@@ -4,4 +4,4 @@
 
 | Tool                                               | Description                                                                                     |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Tool Name           | Tool description. <a href="https://google.com">Read more...</a>                  |
+| Tool Name           | Tool description. <a href="https://google.com" target="_blank">Read more...</a>                  |
