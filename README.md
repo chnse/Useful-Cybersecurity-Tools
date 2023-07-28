@@ -11,4 +11,5 @@
 | [ProcessExplorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)     | An enhanced version of Task Manager in which you can view extra info about each process   |
 | [Strings](https://learn.microsoft.com/en-us/sysinternals/downloads/strings)     | A program that allows you to perform static analysis by revealing an executables strings  |
 | [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)   | A program that displays currently configured auto-start applications  |
+| [ESET AV Remover](https://www.eset.com/int/support/av-remover/)                   | An AV remover that will help you remove installed AV software |
 
